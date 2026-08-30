@@ -1,4 +1,4 @@
-# Student Data Cleaning Project
+# Student Data Cleaning
 
 ## Project Overview
 
